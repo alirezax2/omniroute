@@ -11,7 +11,7 @@ RUN npm install -g omniroute
 
 # Tell OmniRoute to use persistent storage
 ENV OMNIROUTE_DATA_DIR=/data/omniroute
-ENV OMNIROUTE_PUBLIC_BASE_URL=https://omniroute.alphigma.com
+ENV OMNIROUTE_PUBLIC_BASE_URL=https://omniroute...com
 
 EXPOSE 20128
 
